@@ -8,6 +8,10 @@ Recieve whispers and whisper from your mobile phone!
 4) Press Save and Start
 
 Whispers from Path of Exile come to Dialogue -> Me
+
 In this Dialogue: 
+
 a) Write "to NAME TEXT", (or To) the message "@NAME TEXT" will be Copied to Clipboard and Sent in game
+
 b) Write "r TEXT" (or R) to respond to the last Whisperer
+
