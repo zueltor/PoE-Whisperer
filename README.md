@@ -15,3 +15,5 @@ a) Write "to NAME TEXT", (or To) the message "@NAME TEXT" will be Copied to Clip
 
 b) Write "r TEXT" (or R) to respond to the last Whisperer
 
+![alt text](https://i.imgur.com/w8ux7LI.png)
+![alt text](https://i.imgur.com/t3h6f2g.jpg)
